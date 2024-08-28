@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CXP 906 1653</product-id>
+	<feature-name>PM-Alarming</feature-name>
+	<release>R1A01</release>
+	<system-area>General/PM Alarming</system-area>
+    <datasource-guid>64fd8419-de49-4576-a7ab-cbb17e7ca9ca</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
+
